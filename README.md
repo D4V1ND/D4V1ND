@@ -10,17 +10,16 @@ Based in Munich · studying Computer Science with Applied Mathematics at LMU Mü
 
 ### Featured
 
+<!-- Line breaks sit inside the tags: whitespace inside a link renders as an underlined gap. -->
 <p>
-  <a href="https://github.com/D4V1ND/tech_europe"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-tech_europe-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/card-tech_europe-light.svg">
-    <img alt="tech_europe: turning a technical drawing into a 3D part" src="assets/card-tech_europe-light.svg" width="49%">
-  </picture></a>
-  <a href="https://github.com/D4V1ND/image2lego"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-image2lego-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/card-image2lego-light.svg">
-    <img alt="image2lego: turns any image into a buildable brick mosaic" src="assets/card-image2lego-light.svg" width="49%">
-  </picture></a>
+  <a href="https://github.com/D4V1ND/tech_europe"><picture><source
+    media="(prefers-color-scheme: dark)" srcset="assets/card-tech_europe-dark.svg"><source
+    media="(prefers-color-scheme: light)" srcset="assets/card-tech_europe-light.svg"><img
+    alt="tech_europe: turning a technical drawing into a 3D part" src="assets/card-tech_europe-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/D4V1ND/image2lego"><picture><source
+    media="(prefers-color-scheme: dark)" srcset="assets/card-image2lego-dark.svg"><source
+    media="(prefers-color-scheme: light)" srcset="assets/card-image2lego-light.svg"><img
+    alt="image2lego: turns any image into a buildable brick mosaic" src="assets/card-image2lego-light.svg" width="49%"></picture></a>
 </p>
 
 ### Stack
